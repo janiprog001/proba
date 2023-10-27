@@ -1,2 +1,3 @@
 # proba
-Ez egy próba!
+A README.md fájlt módosítottam!
+
